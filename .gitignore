@@ -1,0 +1,11 @@
+*.pyc
+*~
+*.swp
+.DS_Store
+slprj/
+.idea/
+*.avi
+*.autosave
+*.slxc
+*.mexw64
+*.asv
