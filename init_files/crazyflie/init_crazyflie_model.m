@@ -4,7 +4,7 @@ run('init_folders')
 % Onboard controller parameters
 run('init_attitude_controller')
 
-% Rotor model5
+% Rotor model
 run('init_rotor_model')
 
 % Quadcopter model
@@ -25,4 +25,4 @@ run('init_flocking_controller')
 run('init_distance_controller')
 
 % Animation settings
-show_disturbances = 0;
+run('init_animations')
